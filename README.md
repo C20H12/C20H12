@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C20H12
-- 👀 I’m interested in FTL coding, XML
-- 🌱 I’m currently learning pixle art
+- 👀 I’m interested in FTL modding, HTML, JavaScript, and maybe C++
+- 🌱 I’m currently learning pixle art, and how to use React
 - 💞️ I’m looking to collaborate on idk yet
 - 📫 How to reach me Untitled #0353
 
