@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @C20H12
 - 👀 I’m interested in FTL modding, HTML, JavaScript / Web tech, and Lua game development.
 - 🌱 I’m currently learning pixle art, and Web development
-- 💞️ I’m looking to collaborate on <nothing currently>
+- 💞️ I’m looking to collaborate on \<nothing currently\>
 - 📫 How to reach me Untitled #0353
 
 <!---
